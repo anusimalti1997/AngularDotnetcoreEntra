@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gE3K4SZWNto=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\anupam\\angular-dotnetcoreEntra\\AngularDotnetcoreEntra\\backendApi\\backendApi\\backendApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.6\\microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
